@@ -17,3 +17,4 @@ idade = 2024 - ano_nascimento
 # String Literal
 print(f"A sua idade é: {idade}")
 
+# Teste do cherry pick
